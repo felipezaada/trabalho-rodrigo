@@ -1,0 +1,10 @@
+Atributos de um aluno
+inteligência
+idade
+número na chamada
+sexo
+
+Métodos de um aluno
+escrever
+ler
+estudar
